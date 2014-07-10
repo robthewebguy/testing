@@ -4,5 +4,5 @@
  */
 
 // Testing
-echo "testing"
+echo "testing";
 ?>
